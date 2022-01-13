@@ -1,9 +1,7 @@
 ## Welcome to my webpage
 
+I am a  Ph.D. student at University of Trieste, currently working with ocean general circulation with emphasis on ocean heat uptake.
 Here [my CV] (https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf)
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Blog
 
