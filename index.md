@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to my webpage
 
-You can use the [editor on GitHub](https://github.com/enerle/enerle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here [my CV] (https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+what i am doing now?
 
 ```markdown
-Syntax highlighted code block
+code code code
 
-# Header 1
-## Header 2
-### Header 3
+# trieste
+## ictp
+### units
 
-- Bulleted
-- List
+- thesis
+- article
+- italian
 
-1. Numbered
-2. List
+1. hola
+2. ciao
+3. hello
 
-**Bold** and _Italic_ and `Code` text
+**Rene** and _Navarro_ and `Labastida` text
 
-[Link](url) and ![Image](src)
+[my CV again](https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf) and [my pic](https://github.com/enerle/enerle.github.io/blob/main/fig.jpeg)
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Articles
+articulos interesante [interesting info](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027) 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enerle/enerle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Others
+numerical ocean model [MOM5](https://mom-ocean.github.io/)
