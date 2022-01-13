@@ -1,7 +1,8 @@
 ## Welcome to my webpage
 
 I am a  Ph.D. student at University of Trieste, currently working with ocean general circulation with emphasis on ocean heat uptake.
-Here [my CV] (https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf)
+Here [my CV](https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf)
+[my pic](https://github.com/enerle/enerle.github.io/blob/main/fig.jpeg)
 
 ### Blog
 
@@ -24,7 +25,8 @@ code code code
 
 **Rene** and _Navarro_ and `Labastida` text
 
-[my CV again](https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf) and [my pic](https://github.com/enerle/enerle.github.io/blob/main/fig.jpeg)
+[my CV again](https://github.com/enerle/enerle.github.io/blob/main/ReneNavarro_CV.pdf) and 
+[my pic](https://github.com/enerle/enerle.github.io/blob/main/fig.jpeg)
 
 ```
 
