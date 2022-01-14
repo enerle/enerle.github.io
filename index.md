@@ -1,4 +1,4 @@
-## Hola, 
+## Hola,
 
 my name is René, I am a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
@@ -11,7 +11,7 @@ and a ***MSc Physical Oceanography***, with strong focus on fluid dynamics, appl
 As work experience I was member of the [Oceanographic Observational Network System](https://cigom.org/en/) and the [Mexican Center for Innovation in Ocean Energy](https://cemieoceano.mx/) for the _wave-current interactions_ group and _Regional wave energy chapter_, respectively. My duty in both cases was to support statistical and programming analysis, particularly in the estimation of climatological patterns, long-term trends and extreme value theory.
 
 Here [my CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CVU.pdf)
-Here [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpeg)
+Here a bit about [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpeg)
 
 ### Research Interests
 _Climate Variability · Ocean Dynamics · Ocean Modeling_
