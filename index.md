@@ -1,12 +1,12 @@
 ## About René
 
-He is a PhD student currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) (UniT-ICTP) in Trieste, Italy. 
+He is a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) (UniT-ICTP) in Trieste, Italy. 
 
 His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on Pacific Ocean and and the role of the wind-driven shallow overturning circulation.
 
-He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a BSc degree in Oceanography. 
+He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a ***BSc degree in Oceanography***. 
 
-He also held a Master of Science in Physical Oceanography from the Ensenada Center for Scientific Research and Higher Education [CICESE](https://www.cicese.edu.mx/).
+He also held a ***Master of Science in Physical Oceanography*** from the Ensenada Center for Scientific Research and Higher Education [CICESE](https://www.cicese.edu.mx/).
 
 He had worked as a scientific assistant for The Gulf of México Research Consortium [CIGoM](https://cigom.org/en/) and the Mexican Center for Innovation in Ocean Energy [CEMIE](https://cemieoceano.mx/).
 
