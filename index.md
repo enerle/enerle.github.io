@@ -25,3 +25,5 @@ Strada Costiera 11, 34151 Trieste, Italy
 Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
 ```
+### Other
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/pic2.jpeg)
