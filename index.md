@@ -10,9 +10,7 @@ He also held a _Master of Science in Physical Oceanography_ from the Ensenada Ce
 
 He had worked as a scientific assistant for The Gulf of México Research Consortium [CIGoM](https://cigom.org/en/) and the Mexican Center for Innovation in Ocean Energy [CEMIE](https://cemieoceano.mx/).
 
-Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida)
-
-and a bit about his life in [Trieste-Italy](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/fig1.jpg)
+Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida) and a bit about his life in [Trieste-Italy](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/fig1.jpg)
 
 ### Articles
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
