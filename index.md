@@ -26,4 +26,4 @@ Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
 ```
 ### Gallery
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/pic2.jpeg)
+![Foto](https://www.savagechickens.com/images/chickenwaste.jpg)
