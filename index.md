@@ -1,6 +1,6 @@
-## Hello my name is René,
+## Hello, my name is René,
 
-I am currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
+I am a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
 The aim of my project is to evaluate the response of the global ocean climate to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on the determination of the low latitude ocean heat budgets and the role of the shallow overturning circulation in the Pacific Ocean.
 
