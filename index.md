@@ -2,7 +2,7 @@
 
 He is a _PhD student_ currently enrolled in the third year of the Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
-His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on Pacific Ocean and and the role of the wind-driven shallow overturning circulation.
+His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on Pacific Ocean wind-driven shallow overturning circulation.
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
 
