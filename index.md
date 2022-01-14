@@ -1,31 +1,23 @@
-## About me
+He is a PhD student currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) (UniT-ICTP) in Trieste, Italy. 
 
-I am a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) (UniT-ICTP) in Trieste, Italy. 
+He is originally from Ensenada Mexico, where he graduated from the Faculty of Marine Science at the Autonomous University of Baja California 
+with a BSc degree in Oceanography. He also held a Master of Science in Physical Oceanography from the Ensenada Center for Scientific Research and Higher Education [CICESE]().
 
-The aim of my project is to evaluate the response of the global ocean climate to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on the determination of the low latitude ocean heat budgets and the role of the shallow overturning circulation in the Pacific Ocean.
+He had worked as a scientific assistant for The Gulf of Mexico Research Consortium [CIGoM](https://cigom.org/en/) and the Mexican Center for Innovation in Ocean Energy [CEMIE-Oceano](https://cemieoceano.mx/).
 
-So far, I have done an exhaustive analysis of a set of numerical simulations following a [state-of-art forcing protocol for Ocean General Circulation Models](http://www.fafmip.org/). At the moment I am preparing a scientific paper encompassing the main results of the study.
+His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on Pacific Ocean and and the role of the wind-driven shallow overturning circulation.
 
-I have a ***BSc Oceanography*** with emphasis on the technical and interdisciplinary skills development on ocean-atmosphere physics
-and a ***MSc Physical Oceanography***, with strong focus on fluid dynamics, applied mathematics, statistics and programming. 
+Here the full [CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CVU.pdf)
 
-In the past I have worked for the [Oceanographic Observational Network System](https://cigom.org/en/) and the [Mexican Center for Innovation in Ocean Energy](https://cemieoceano.mx/) in the _wave-current interactions_ group and _Regional wave energy chapter_, respectively. 
+The numerical ocean model [MOM5](https://mom-ocean.github.io/)
 
-Here [my CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CVU.pdf)
+Researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida)
 
-Here a bit more about [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpg)
-
-### Research Interests
-_Climate Variability · Ocean Dynamics · Ocean Modeling_
+Here a bit more about [him](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpg)
 
 ### Articles
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal cycle of near-bottom transport and currents in the northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
-
-### Others
-The numerical ocean model I use is [MOM5](https://mom-ocean.github.io/)
-
-My researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida)
 
 ### Contact
 ```
