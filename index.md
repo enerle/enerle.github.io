@@ -1,14 +1,15 @@
-## Hola,
+## Hello my name is René,
 
-my name is René, I am a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
+I am currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
 The aim of my project is to evaluate the response of the global ocean climate to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on the determination of the low latitude ocean heat budgets and the role of the shallow overturning circulation in the Pacific Ocean.
+
 So far, I have done an exhaustive analysis of a set of numerical simulations following a [state-of-art forcing protocol for Ocean General Circulation Models](http://www.fafmip.org/). At the moment I am preparing a scientific paper encompassing the main results of the study.
 
 I have a ***BSc Oceanography*** with emphasis on the technical and interdisciplinary skills development on ocean-atmosphere physics
 and a ***MSc Physical Oceanography***, with strong focus on fluid dynamics, applied mathematics, statistics and programming. 
 
-As work experience I was member of the [Oceanographic Observational Network System](https://cigom.org/en/) and the [Mexican Center for Innovation in Ocean Energy](https://cemieoceano.mx/) for the _wave-current interactions_ group and _Regional wave energy chapter_, respectively. My duty in both cases was to support statistical and programming analysis, particularly in the estimation of climatological patterns, long-term trends and extreme value theory.
+In the past I have worked for the [Oceanographic Observational Network System](https://cigom.org/en/) and the [Mexican Center for Innovation in Ocean Energy](https://cemieoceano.mx/) in the _wave-current interactions_ group and _Regional wave energy chapter_, respectively. 
 
 Here [my CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CVU.pdf)
 
@@ -28,7 +29,7 @@ My researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Laba
 
 ### Contact
 ```
-The Abdus Salam International Centre for Theoretical Physics (ICTP)
+The International Centre for Theoretical Physics (ICTP)
 Earth System Physics Section
 Leonardo Da Vinci Building, room 328
 Strada Costiera 11, 34151 Trieste, Italy
