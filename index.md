@@ -11,7 +11,8 @@ and a ***MSc Physical Oceanography***, with strong focus on fluid dynamics, appl
 As work experience I was member of the [Oceanographic Observational Network System](https://cigom.org/en/) and the [Mexican Center for Innovation in Ocean Energy](https://cemieoceano.mx/) for the _wave-current interactions_ group and _Regional wave energy chapter_, respectively. My duty in both cases was to support statistical and programming analysis, particularly in the estimation of climatological patterns, long-term trends and extreme value theory.
 
 Here [my CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CVU.pdf)
-Here a bit about [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpeg)
+
+Here a bit more about [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig1.jpg)
 
 ### Research Interests
 _Climate Variability · Ocean Dynamics · Ocean Modeling_
