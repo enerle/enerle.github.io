@@ -1,6 +1,6 @@
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg) 
-
 ## About René
+
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg) 
 
 He is a _PhD student_ currently enrolled in the third year of the Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
