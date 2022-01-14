@@ -21,7 +21,7 @@ _Climate Variability · Ocean Dynamics · Ocean Modeling_
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
 
 ### Others
-Numerical ocean model I use is [MOM5](https://mom-ocean.github.io/)
+The numerical ocean model I use is [MOM5](https://mom-ocean.github.io/)
 
 My researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida)
 
