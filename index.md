@@ -1,4 +1,4 @@
-## Hola, my name is René,
+## About me
 
 I am a ***PhD student*** currently enrolled in the third year of the [Joint PhD Programme, Earth Science and Fluid Mechanics](https://web.units.it/dottorato/esfm/) (UniT-ICTP) in Trieste, Italy. 
 
