@@ -13,30 +13,24 @@ As work experience I was member of the [Oceanographic Observational Network Syst
 Here [my CV](https://raw.githubusercontent.com/enerle/enerle.github.io/main/ReneNavarro_CV.pdf)
 Here [myself](https://raw.githubusercontent.com/enerle/enerle.github.io/main/fig.jpeg)
 
-Abdus Salam ICTP, Earth System Physics Section.
-
-Leonardo Da Vinci Building, room 328
-
-Strada Costiera 11, 34151 Trieste, Italy
-
-phone: +39 040 2240 348
-
-email: rnavarro@ictp.it
-
 ### Research Interests
 _Climate Variability · Ocean Dynamics · Ocean Modeling_
 
-
 ### Articles
-- [Navarro, R., López, M., & Candela, J. 2016](). ***Seasonal cycle of near-bottom transport and currents in the northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
+- [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal cycle of near-bottom transport and currents in the northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
 
 ### Others
 Numerical ocean model I use is [MOM5](https://mom-ocean.github.io/)
+
 My researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida)
 
-### Blog 
-```markdown
-blablabla y blabla
+### Contact
 ```
-
+The Abdus Salam International Centre for Theoretical Physics (ICTP), 
+Earth System Physics Section.
+Leonardo Da Vinci Building, room 328
+Strada Costiera 11, 34151 Trieste, Italy
+phone: +39 040 2240 348
+email: rnavarro@ictp.it
+```
