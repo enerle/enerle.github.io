@@ -1,7 +1,5 @@
 ## About René
 
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg) 
-
 He is a _PhD student_ currently enrolled in the third year of the Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
 
 His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on Pacific Ocean and and the role of the wind-driven shallow overturning circulation.
