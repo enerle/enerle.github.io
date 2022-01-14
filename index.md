@@ -18,6 +18,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 
 ### Contact
 ```
+René Gabriel Navarro Labastida
 The International Centre for Theoretical Physics (ICTP)
 Earth System Physics Section
 Old SISSA bulding, room 328
