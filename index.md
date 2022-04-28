@@ -17,7 +17,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal cycle of near-bottom transport and currents in the northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 
 ### Invited talks
-- ***Shallow and interior ocean components of the tropical Pacific heat budget***. Eindhoven University of Technology. Eindhoven, Netherlands. March 2022.
+- ***Shallow and interior ocean components of the tropical Pacific heat budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
 - ***La metáfora del gran cinturón de circulación oceánica: Ventilación del océano global y la infravalorada contribución del Pacífico***. XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
 
 ### Contact
