@@ -33,3 +33,9 @@ Email: rnavarro@ictp.it
 ```
 ### Gallery
 ![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg)
+
+### Miscellaneous (kind of random)
+- ***Some notes about writing style in science, for my students in data analysys and statistics (I actually wrote it for me, but don't tell them) *** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/)
+- ***Cool Student's seminar flyer for the DOP-CICESE***[(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/)
+- ***PhD Thesis data analysis codes (mainly python)*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/) Disclaimer: Use at your own risk.
+- ***Many MATLAB functions made by me*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/) Disclaimer: I'm not working with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab. Anyway, I hope someone could find it useful.
