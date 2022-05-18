@@ -19,7 +19,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 
 ### Invited talks
 - ***Shallow and interior ocean components of the tropical Pacific heat budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
-- ***La metáfora del gran cinturón de circulación oceánica: Ventilación del océano global y la infravalorada contribución del Pacífico***. XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
+- ***La metáfora del gran cinturón de circulación oceánica: Ventilación del océano global y la infravalorada contribución del Pacífico***. [talk here (Spanish)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/pres_051722_UMAR.pdf) XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
 
 ### Contact
 ```
