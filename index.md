@@ -10,7 +10,7 @@ He also held a _Master of Science in Physical Oceanography_ from the Ensenada Ce
 
 He had worked as a scientific assistant for The Gulf of México Research Consortium [CIGoM](https://cigom.org/en/) and the Mexican Center for Innovation in Ocean Energy [CEMIE](https://cemieoceano.mx/).
 
-Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida) and a bit about his life in [Trieste-Italy](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/fig1.jpg)
+Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida) and a bit about his life in [Trieste-Italy](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/fig1.jpg)
 
 ### Articles
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
@@ -19,7 +19,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 
 ### Invited talks
 - ***Shallow and interior ocean components of the tropical Pacific heat budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
-- ***La metáfora del gran cinturón de circulación oceánica: Ventilación del océano global y la infravalorada contribución del Pacífico*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/pres_051722_UMAR.pdf). XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
+- ***La metáfora del gran cinturón de circulación oceánica: Ventilación del océano global y la infravalorada contribución del Pacífico*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/pres_051722_UMAR.pdf). XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
 
 ### Contact
 ```
@@ -35,7 +35,7 @@ Email: rnavarro@ictp.it
 ![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg)
 
 ### Miscellaneous (kind of random)
-- ***Some notes about writing style in science, for my students in data analysys and statistics***  [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/) Hidden note: I actually wrote it for me, but don't tell them
-- ***Cool Student's seminar flyer for the DOP-CICESE*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/)
-- ***Some codes for data analysis and processing I wrote during my PhD Thesis (mainly python)*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/) Disclaimer: Use at your own risk
-- ***Many MATLAB functions made by me*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/) Disclaimer: I'm not working with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab. Anyway, I hope someone could find it useful.
+- [Some notes about writing style in science, for my students in data analysys and statistics](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf) Hidden note: I actually wrote it for me, but don't tell them
+- [Cool Student's seminar flyer for the DOP-CICESE](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/seminario0.pdf)
+- [Some codes for data analysis and processing I wrote during my PhD Thesis](https://github.com/enerle/) Disclaimer: Use at your own risk
+- [Many MATLAB functions made by me](https://github.com/enerle/) Disclaimer: I'm not working with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab. Anyway, I hope someone could find it useful.
