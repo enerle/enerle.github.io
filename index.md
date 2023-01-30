@@ -32,10 +32,10 @@ Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
 ```
 ### Gallery
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/Subtropical_cells_zonalzections_control.pdf)
-[texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext]
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/stc_circulation_scheme.pdf)
-[texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext]
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/Subtropical_cells_zonalzections_control.png)
+texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/stc_circulation_scheme.png)
+texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext
 
 ### Miscellaneous
 - [Some notes about writing style in science (Data Analysys and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
