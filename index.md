@@ -32,7 +32,7 @@ Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
 ```
 ### Gallery
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/gallery1.jpg)
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/)
 
 ### Miscellaneous
 - [Some notes about writing style in science (Data Analysys and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
