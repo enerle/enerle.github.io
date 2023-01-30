@@ -32,10 +32,12 @@ Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
 ```
 ### Gallery
-![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/)
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/Subtropical_cells_zonalzections_control.pdf)
+[texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext]
+![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/stc_circulation_scheme.pdf)
+[texttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextexttexttextext]
 
 ### Miscellaneous
 - [Some notes about writing style in science (Data Analysys and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
-- [2018 informal Student's seminar flyer for the DOP-CICESE](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/seminario0.pdf)
-- [Some codes for data analysis and processing I wrote during my PhD Thesis](https://github.com/enerle/) Disclaimer: Use at your own risk
-- [Many MATLAB functions made by me](https://github.com/enerle/) Disclaimer: I'm not working with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab. Anyway, I hope someone could find it useful.
+- [Some codes for data analysis and processing I wrote during my PhD Thesis](https://github.com/enerle/)
+- [Many MATLAB functions made by me](https://github.com/enerle/) Disclaimer: I'm not working with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab.
