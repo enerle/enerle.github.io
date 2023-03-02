@@ -15,7 +15,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 ### Articles
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
-- [Navarro, R., & Farneti, R.]. ***The Role of the Shallow Wind-driven Overturning Circulation in the Determination of Tropical Pacific Ocean Heat Budgets***. (in prep.)
+- [Navarro, R., & Farneti, R.]. ***The Tropical Pacific Ocean Heat Budget and the Role of Shallow and Deep Circulations***. (in prep.)
 
 ### Invited talks
 - ***Shallow and Interior Ocean Components of the Tropical Pacific Heat Budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
