@@ -18,6 +18,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 - [Navarro, R., & Farneti, R.]. ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***. (in press.)
 
 ### Invited talks
+- ***The role of shallow and deep circulations in the Tropical Pacific Ocean heat budget***. Bad Honnef Physics School, Physics of the Ocean. Bad Honnef, Germany. July, 2023 (poster).
 - ***Ocean’s Response to Surface Buoyancy and Momentum Flux Perturbations***. Centro euro-Mediterraneo sui Cambiamenti Climatici (CMCC). Bologna, Italy. March 12, 2023.
 - ***Shallow and Interior Ocean Components of the Tropical Pacific Heat Budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
 - ***La Metáfora del Gran Cinturón de Circulación Oceánica: Ventilación del Océano Global y la Infravalorada Contribución del Pacífico*** [(click here)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/pres_051722_UMAR.pdf). XIV Jornada Académica de Oceanología. Puerto Ángel, México. Mayo 2022.
