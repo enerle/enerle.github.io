@@ -1,6 +1,6 @@
 ## About René
 
-He recently obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy (thesis title: The role of the wind-driven shallow overturning circulation in the heat budget of the tropical Pacific: Ocean’s response to surface buoyancy and momentum flux perturbations).
+He recently obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy.
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
 
@@ -11,10 +11,10 @@ He had worked as a scientific assistant for The Gulf of México Research Consort
 Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida).
 
 ### Articles
-- [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
-- [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 - [Navarro, R., & Farneti, R. 2023]. ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***.
 Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023.1208052
+- [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
+- [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 
 ### Invited talks
 - ***The role of shallow and deep circulations in the Tropical Pacific Ocean heat budget***. Bad Honnef Physics School, Physics of the Ocean. Bad Honnef, Germany. July, 2023 (poster).
@@ -34,10 +34,10 @@ Email: rnavarro@ictp.it
 ```
 ### Gallery
 ![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/stc_circulation_scheme.png)
-Schematic representations of the Pacific Ocean Shallow Wind-driven Meridional Overturning Circulation. (a) The time-mean and zonally-integrated Meridional Overturning Circulation. The time-mean isopycnal field (gray contours) and mean mixed layer depth (red line) are also shown. Both upper poleward and lower equatorward branches are represented by horizontal white arrows. Equatorial upwelling and subtropical downwelling flow required to close overturning circulation are also shown (upward and downward white arrows). (b) Bird's eye view of the time-mean meridional circulation and different branches of the meridional overturn. The warm upper poleward Ekman transport (white arrows), the cold lower equatorward geostrophic interior transport (black arrows) and the subsurface Western Boundary Current contribution to the upper poleward transport (gray arrows) on the western side of the basin, are shown. The equatorial upwelling and the subtropical downwelling are represented by the white upward arrow and by the white downward arrows, respectively. Contours represent the time-mean zonal wind stress. (c) Schematics of the zonal section of the Shallow Overturning Circulation inside the Subtropical Gyre, for the Northern Hemisphere across latitude 24N. The same applies to the Southern Hemisphere but inverting the signs. The Schematic is divided into surface poleward transport, the Western Boundary Current transport (WBC), and the interior equatorward transport. Balance inside the overturning cell excludes transport within deeper levels of the WBC (shaded area), which flows outside the gyre towards the Subpolar region.
+Schematic representations of the Pacific Ocean Shallow Wind-driven Meridional Overturning Circulation. (a) The time-mean and zonally-integrated Meridional Overturning Circulation. The time-mean isopycnal field (gray contours) and mean mixed layer depth (red line) are also shown. Both upper poleward and lower equatorward branches are represented by horizontal white arrows. Equatorial upwelling and subtropical downwelling flow required to close overturning circulation are also shown (upward and downward white arrows). (b) Bird's eye view of the time-mean meridional circulation and different branches of the meridional overturn. The warm upper poleward Ekman transport (white arrows), the cold lower equatorward geostrophic interior transport (black arrows), and the subsurface Western Boundary Current contribution to the upper poleward transport (gray arrows) on the western side of the basin are shown. The equatorial upwelling and the subtropical downwelling are represented by the white upward arrow and by the white downward arrows, respectively. Contours represent the time-mean zonal wind stress. (c) Schematics of the zonal section of the Shallow Overturning Circulation inside the Subtropical Gyre, for the Northern Hemisphere across latitude 24N. The same applies to the Southern Hemisphere but inverting the signs. The Schematic is divided into surface poleward transport, the Western Boundary Current transport (WBC), and the interior equatorward transport. Balance inside the overturning cell excludes transport within deeper levels of the WBC (shaded area), which flows outside the gyre towards the Subpolar region.
 
 ### Miscellaneous
-- [Some notes about writing style in science (Data Analysys and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
-- [Some codes for data analysis and processing I wrote during my PhD Thesis](https://github.com/enerle/)
-- [Many MATLAB functions made by me](https://github.com/enerle/) (Disclamer: I do not work with matlab since years. Codes could be rather deprecated under the new coding paradigm of matlab).
+- [Some notes about writing style in science (Data Analysis and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
+- [Some codes for data analysis and processing I wrote during my Ph.D. Thesis](https://github.com/enerle/)
+- [Many MATLAB functions made by me](https://github.com/enerle/) (Disclaimer: I do not work with Matlab for years. Codes could be rather deprecated under the new coding paradigm of Matlab).
 
