@@ -1,8 +1,6 @@
 ## About René
 
-He recently obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy. 
-
-His main research interest is on evaluating the response of the ocean to anomalous surface fluxes in terms of ocean heat uptake and circulation changes, with particular focus on the Shallow Wind-driven Overturning Circulation.
+He recently obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy (thesis title: The role of the wind-driven shallow overturning circulation in the heat budget of the tropical Pacific: Ocean’s response to surface buoyancy and momentum flux perturbations).
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
 
@@ -15,7 +13,8 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 ### Articles
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
-- [Navarro, R., & Farneti, R.]. ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***. (in press.)
+- [Navarro, R., & Farneti, R. 2023]. ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***.
+Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023.1208052
 
 ### Invited talks
 - ***The role of shallow and deep circulations in the Tropical Pacific Ocean heat budget***. Bad Honnef Physics School, Physics of the Ocean. Bad Honnef, Germany. July, 2023 (poster).
@@ -28,7 +27,7 @@ Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/m
 René Gabriel Navarro Labastida
 The International Centre for Theoretical Physics (ICTP)
 Earth System Physics Section
-Old SISSA bulding, room 328
+Old SISSA building, room 328
 Strada Costiera 11, 34151 Trieste, Italy
 Phone: +39 040 2240 348
 Email: rnavarro@ictp.it
