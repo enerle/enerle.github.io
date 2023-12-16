@@ -1,6 +1,7 @@
 ## About René
 
 He is a Post-Doctoral Researcher at the Swedish Meteorological and Hydrological Institute (SMHI) Global Modeling at Rossby Centre in Norrköping Sweden. 
+His main research interest is on the North Atlantic Ocean Circulation with a particular focus on the Gulf Stream and Atlantic Meridional Overturning Circulation interaction.
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
 
@@ -26,16 +27,6 @@ Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023
 
 ### Contact
 ```
-\firstname{René Gabriel} 
-\familyname{Navarro-Labastida} 
-\title{Curriculum Vitae}
-%\address{SMHI, \\ Strada Costiera 11, 34151}{Trieste, Italy}
-\address{Swedish Meteorological and Hydrological Institute (SMHI), \\ Folkborgsvägen 17, 603 80}{Norrköping, Sweden}
-\mobile{ +46 767201924}
-\email{renegabriel.navarrolabastida@smhi.se}
-\homepage{https://enerle.github.io/rnavarro/}
-\begin{document}
-
 René Gabriel Navarro Labastida
 The Swedish Meteorological and Hydrological Institute (SMHI)
 The Rossby Centre
