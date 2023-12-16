@@ -1,6 +1,7 @@
 ## About René
 
 He is a Post-Doctoral Researcher at the Swedish Meteorological and Hydrological Institute (SMHI) Global Modeling at Rossby Centre in Norrköping Sweden. 
+
 His main research interest is on the North Atlantic Ocean Circulation with a particular focus on the Gulf Stream and Atlantic Meridional Overturning Circulation interaction.
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
@@ -35,6 +36,8 @@ Phone: +46767201924
 Email: renegabriel.navarrolabastida@smhi.se
 ```
 ### Gallery
+Taken from Navarro, R., & Farneti, R. 2023
+
 ![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/stc_circulation_scheme.png)
 Schematic representations of the Pacific Ocean Shallow Wind-driven Meridional Overturning Circulation. (a) The time-mean and zonally-integrated Meridional Overturning Circulation. The time-mean isopycnal field (gray contours) and mean mixed layer depth (red line) are also shown. Both upper poleward and lower equatorward branches are represented by horizontal white arrows. Equatorial upwelling and subtropical downwelling flow required to close overturning circulation are also shown (upward and downward white arrows). (b) Bird's eye view of the time-mean meridional circulation and different branches of the meridional overturn. The warm upper poleward Ekman transport (white arrows), the cold lower equatorward geostrophic interior transport (black arrows), and the subsurface Western Boundary Current contribution to the upper poleward transport (gray arrows) on the western side of the basin are shown. The equatorial upwelling and the subtropical downwelling are represented by the white upward arrow and by the white downward arrows, respectively. Contours represent the time-mean zonal wind stress. (c) Schematics of the zonal section of the Shallow Overturning Circulation inside the Subtropical Gyre, for the Northern Hemisphere across latitude 24N. The same applies to the Southern Hemisphere but inverting the signs. The Schematic is divided into surface poleward transport, the Western Boundary Current transport (WBC), and the interior equatorward transport. Balance inside the overturning cell excludes transport within deeper levels of the WBC (shaded area), which flows outside the gyre towards the Subpolar region.
 
