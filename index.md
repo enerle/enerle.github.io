@@ -12,7 +12,7 @@ He also held a _Master of Science in Physical Oceanography_ from the Ensenada Ce
 
 He had worked as a scientific assistant for The Gulf of México Research Consortium [CIGoM](https://cigom.org/en/) and the Mexican Center for Innovation in Ocean Energy [CEMIE](https://cemieoceano.mx/).
 
-Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida).
+Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/ReneNavarro_CVU_2023.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida).
 
 ### Articles
 - [Navarro, R., & Farneti, R. 2023](https://www.frontiersin.org/articles/10.3389/fmars.2023.1208052/full). ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***.
