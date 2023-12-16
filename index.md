@@ -1,8 +1,10 @@
 ## About René
 
-He recently obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy.
+He is a Post-Doctoral Researcher at the Swedish Meteorological and Hydrological Institute (SMHI) Global Modeling at Rossby Centre in Norrköping Sweden. 
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
+
+He obtained _PhD in Earth Sciences_ from the University of Trieste Joint PhD Programme, Earth Science and Fluid Mechanics [ESFM](https://web.units.it/dottorato/esfm/) in Trieste, Italy.
 
 He also held a _Master of Science in Physical Oceanography_ from the Ensenada Center for Scientific Research and Higher Education [CICESE](https://www.cicese.edu.mx/).
 
@@ -11,7 +13,7 @@ He had worked as a scientific assistant for The Gulf of México Research Consort
 Here the full [CV](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/ReneNavarro_CVU.pdf), researchgate [profile](https://www.researchgate.net/profile/Rene-Navarro-Labastida).
 
 ### Articles
-- [Navarro, R., & Farneti, R. 2023]. ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***.
+- [Navarro, R., & Farneti, R. 2023](https://www.frontiersin.org/articles/10.3389/fmars.2023.1208052/full). ***The Role of Shallow and Deep Circulations in the Tropical Pacific Ocean Heat Budget***.
 Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023.1208052
 - [Todd et al., 2020](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS002027). ***Ocean-only FAFMIP: Understanding Regional Patterns of Ocean Heat Content and Dynamic Sea Level Change***. Journal of Advances in Modeling Earth Systems, doi:org/10.1002/essoar.10501557.1
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
@@ -24,13 +26,22 @@ Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023
 
 ### Contact
 ```
+\firstname{René Gabriel} 
+\familyname{Navarro-Labastida} 
+\title{Curriculum Vitae}
+%\address{SMHI, \\ Strada Costiera 11, 34151}{Trieste, Italy}
+\address{Swedish Meteorological and Hydrological Institute (SMHI), \\ Folkborgsvägen 17, 603 80}{Norrköping, Sweden}
+\mobile{ +46 767201924}
+\email{renegabriel.navarrolabastida@smhi.se}
+\homepage{https://enerle.github.io/rnavarro/}
+\begin{document}
+
 René Gabriel Navarro Labastida
-The International Centre for Theoretical Physics (ICTP)
-Earth System Physics Section
-Old SISSA building, room 328
-Strada Costiera 11, 34151 Trieste, Italy
-Phone: +39 040 2240 348
-Email: rnavarro@ictp.it
+The Swedish Meteorological and Hydrological Institute (SMHI)
+The Rossby Centre
+Folkborgsvägen 17, 603 80 Norrköping, Sweden
+Phone: +46767201924
+Email: renegabriel.navarrolabastida@smhi.se
 ```
 ### Gallery
 ![Foto](https://raw.githubusercontent.com/enerle/rnavarro/main/pics/stc_circulation_scheme.png)
@@ -39,5 +50,5 @@ Schematic representations of the Pacific Ocean Shallow Wind-driven Meridional Ov
 ### Miscellaneous
 - [Some notes about writing style in science (Data Analysis and Statistics 2017)](https://raw.githubusercontent.com/enerle/rnavarro.github.io/main/data/notas_redaccion_unam_2017.pdf)
 - [Some codes for data analysis and processing I wrote during my Ph.D. Thesis](https://github.com/enerle/)
-- [Many MATLAB functions made by me](https://github.com/enerle/) (Disclaimer: I do not work with Matlab for years. Codes could be rather deprecated under the new coding paradigm of Matlab).
+- [Many MATLAB functions made by me](https://github.com/enerle/) (Disclaimer: I stopped using Matlab a long time ago. Codes could be rather deprecated under the new coding paradigm of Matlab).
 
