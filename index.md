@@ -2,7 +2,7 @@
 
 He is a Post-Doctoral Researcher at the Swedish Meteorological and Hydrological Institute (SMHI) Global Modeling at Rossby Centre in Norrköping Sweden. 
 
-His main research interest is on the North Atlantic Ocean Circulation with a particular focus on the Gulf Stream and Atlantic Meridional Overturning Circulation interaction.
+His main research interest is on the North Atlantic Ocean Circulation, focusing on the Gulf Stream and Atlantic Meridional Overturning Circulation interaction.
 
 He is originally from Ensenada Baja California México, where he graduated from the Faculty of Marine Science [FCM](http://fcm.ens.uabc.mx/) at the Autonomous University of Baja California with a _BSc degree in Oceanography_. 
 
@@ -21,6 +21,8 @@ Front. Mar. Sci., Sec. Physical Oceanography, https://doi.org/10.3389/fmars.2023
 - [Navarro, R., López, M., & Candela, J. 2016](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016JC012063). ***Seasonal Cycle of Near-bottom Transport and Currents in the Northern Gulf of California***. Journal of Geophysical Research: Oceans, 121. doi: 10.1002/2016JC012063
 
 ### Invited talks
+- ***La gran circulación del océano*** [(click here)](https://radio.uabc.mx/podcast/radar-oceanografico-t8e08-la-gran-circulacion-del-oceano). Radar Oceanográfico - UABC Radio. Ensenada, México. Marzo 2024.
+- ***Seminario de posgrado en IIO-UABC y DOF-CICESE***. [(click here)](https://www.youtube.com/live/iyV-96Cwi8w?feature=shared). Ensenada, México. Marzo 2024.
 - ***The role of shallow and deep circulations in the Tropical Pacific Ocean heat budget***. Bad Honnef Physics School, Physics of the Ocean. Bad Honnef, Germany. July, 2023 (poster).
 - ***Ocean’s Response to Surface Buoyancy and Momentum Flux Perturbations***. Centro euro-Mediterraneo sui Cambiamenti Climatici (CMCC). Bologna, Italy. March 12, 2023.
 - ***Shallow and Interior Ocean Components of the Tropical Pacific Heat Budget***. Fluids & Flows group seminars. Eindhoven University of Technology (TU/e). Eindhoven, Netherlands. March 2022.
